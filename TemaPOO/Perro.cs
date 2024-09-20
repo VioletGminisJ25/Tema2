@@ -23,7 +23,7 @@ namespace TemaPOO
                 return edad;
             }
             set
-            {
+            { 
                 if (value < 0) { 
                     value = 0;
                 }
